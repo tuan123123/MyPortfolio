@@ -1,16 +1,15 @@
 export const siteConfig = {
-  name: "Ryan Fitzgerald",
-  title: "Senior Software Engineer",
-  description: "Portfolio website of Ryan Fitzgerald",
+  name: "Tuan Nguyen",
+  title: "Sophomore CS Student | Aspiring Software Engineer",
+  description: "Portfolio website of Tuan Nguyen",
   accentColor: "#1d4ed8",
   social: {
-    email: "your-email@example.com",
-    linkedin: "https://linkedin.com/in/yourprofile",
-    twitter: "https://x.com/rfitzio",
-    github: "https://github.com/RyanFitzgerald",
+    email: "tuan1010@iastate.edu",
+    linkedin: "https://www.linkedin.com/in/tuan-nguyen-4511b0274/",
+    github: "https://github.com/tuan123123",
   },
   aboutMe:
-    "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem quos asperiores nihil consequatur tempore cupiditate architecto natus commodi corrupti quas quasi facere est, dignissimos odit nam veniam sapiente ut, vitae eligendi ipsum dolor, nostrum ullam impedit! Corrupti ratione mollitia temporibus necessitatibus, consectetur reiciendis recusandae id, dolorum quaerat, vero pariatur. Ratione!",
+    "I’m a Computer Science student at Iowa State University focused on building scalable, reliable software. I work on automated validation pipelines for high-performance computing code, improving execution success and reducing debugging time through reproducible engineering practices. I’ve also shipped full-stack systems with real-time communication, optimized databases, and automated CI/CD to ensure performance under real load.",
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
@@ -37,55 +36,34 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Tech Company",
-      title: "Senior Software Engineer",
-      dateRange: "Jan 2022 - Present",
+      company: "SWAPP Lab (Supervisor: Dr. Ali Jannesari) ",
+      title: "Undergraduate Research Assistant",
+      dateRange: "Dec 2024 - Present",
       bullets: [
-        "Led development of microservices architecture serving 1M+ users",
-        "Reduced API response times by 40% through optimization",
-        "Mentored team of 5 junior developers",
+        "Built an automated agent to validate and improve LLM-generated HPC code across 50+ benchmarks.",
+        "Debugged and optimized PyTorch→JAX/CUDA translations through 100+ test runs for scalable performance.",
+        "Increased execution success by 35% and cut debugging time by 40% with reproducible error-fix pipelines.",
       ],
     },
     {
-      company: "Startup Inc",
-      title: "Full Stack Developer",
-      dateRange: "Jun 2020 - Dec 2021",
+      company: "Information Technology Services",
+      title: "Audiovisual Technician",
+      dateRange: "Jan 2025 – Present",
       bullets: [
-        "Built and launched MVP product from scratch using React and Node.js",
-        "Implemented CI/CD pipeline reducing deployment time by 60%",
-        "Collaborated with product team to define technical requirements",
-      ],
-    },
-    {
-      company: "Digital Agency",
-      title: "Frontend Developer",
-      dateRange: "Aug 2018 - May 2020",
-      bullets: [
-        "Developed responsive web applications for 20+ clients",
-        "Improved site performance scores by 35% on average",
-        "Introduced modern JavaScript frameworks to legacy codebases",
+        "Managed AV systems with 300+ hours of hands-on setup and real-time problem-solving.",
+        "Delivered live tech support for 25+ major campus events (500+ attendees).",
+        "Resolved 100+ technical issues, reducing downtime by 30%+.",
       ],
     },
   ],
   education: [
     {
-      school: "University Name",
+      school: "Iowa State University",
       degree: "Bachelor of Science in Computer Science",
-      dateRange: "2014 - 2018",
+      dateRange: "Aug 2024 - May 2028 (Expected)",
       achievements: [
-        "Graduated Magna Cum Laude with 3.8 GPA",
-        "Dean's List all semesters",
-        "President of Computer Science Club",
-      ],
-    },
-    {
-      school: "Online Platform",
-      degree: "Full Stack Development Certificate",
-      dateRange: "2019",
-      achievements: [
-        "Completed 500+ hours of coursework",
-        "Built 10+ portfolio projects",
-        "Specialized in React and Node.js",
+        "Dean's Award for International Student Excellence",
+        "Relevant Coursework: Data Structures & Algorithms, Computer Systems, Software Engineering, Database Systems",
       ],
     },
   ],
