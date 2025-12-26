@@ -2,7 +2,7 @@ export const siteConfig = {
   name: "Tuan Nguyen",
   title: "Sophomore CS Student | Aspiring Software Engineer",
   description: "Portfolio website of Tuan Nguyen",
-  accentColor: "#1d4ed8",
+  accentColor: "#8ae28aff",
   social: {
     email: "tuan1010@iastate.edu",
     linkedin: "https://www.linkedin.com/in/tuan-nguyen-4511b0274/",
@@ -31,7 +31,7 @@ export const siteConfig = {
   experience: [
     {
       company: "Microsoft ",
-      title: "AI and Machine Learning- Summer Program",
+      title: "AI and Machine Learning - Summer Program",
       dateRange: "July 2025– Sep 2025",
       bullets: [
         "Built an LLM health assistant utilizing Azure OpenAI Services and LangChain to interpret patient records, generate diagnostic insights, and assist predictive models in assessing cardiovascular risk",
@@ -41,7 +41,7 @@ export const siteConfig = {
     {
       company: "HSBC Holdings",
       title: "Software Engineer Intern (Bank Transaction Team)",
-      dateRange: "May 2025– Aug 2025",
+      dateRange: "May 2025 – Aug 2025",
       bullets: [
         "Developed backend API in Java Spring Boot for processing Premium Membership transactions, integrating Kafka for message queuing and Redis Streams for real-time ingestion of 20K+ events/min, reducing system lag by 40%",
         "Integrated Prometheus and Grafana with AWS CloudWatch to monitor global transaction service performance and optimize AWS EC2 usage, improved alerting accuracy and helped reduce idle resource cost by $5,000 per month",
@@ -51,7 +51,7 @@ export const siteConfig = {
     {
       company: "CloudyScale.ai",
       title: "Software Engineer Intern (Web Development Team)",
-      dateRange: "May 2024– Aug 2024",
+      dateRange: "May 2024 – Aug 2024",
       bullets: [
         "Delivered document search application used by 30 employees, by building UI components with Next.js, TypeScript, and TailwindCSS and integrating authenticated APIs using OAuth 2.0 and role-based access control",
         "Reduced chatbot response latency by 34%, measured by average API response time, by developing backend services in Golang, optimizing query paths in MySQL, and adding request-level caching for conversation history.",
