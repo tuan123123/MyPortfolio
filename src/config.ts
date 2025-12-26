@@ -32,7 +32,7 @@ export const siteConfig = {
     {
       company: "Microsoft ",
       title: "AI and Machine Learning - Summer Program",
-      dateRange: "July 2025– Sep 2025",
+      dateRange: "July 2025 – Sep 2025",
       bullets: [
         "Built an LLM health assistant utilizing Azure OpenAI Services and LangChain to interpret patient records, generate diagnostic insights, and assist predictive models in assessing cardiovascular risk",
         "Fine-tuned TabNet model for heart disease prediction using the UCI Heart Disease dataset, leveraging Python, pandas, and Hugging Face with feature selection and hyperparameter tuning to reach 90% accuracy",
