@@ -13,26 +13,20 @@ export const siteConfig = {
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
-      name: "AI Dev Roundup Newsletter",
+      name: "Crypto Pilot - Trading",
       description:
-        "One concise email. Five minutes. Every Tuesday. Essential AI news & trends, production-ready libraries, powerful AI tools, and real-world code examples",
-      link: "https://aidevroundup.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+        "A real-time cryptocurrency trading platform that allows users to buy, sell, and monitor various cryptocurrencies with live market data and portfolio tracking.",
+      link: "https://github.com/po-tech-community/crypto-pilot-fe",
+      skills: ["MongoDB", "React.js", "Node.js", "Express.js", "AWS", "Redis", "Binance API"],
     },
     {
-      name: "Chrome Extension Mastery: Build Full-Stack Extensions with React & Node.js",
+      name: "tAI - AI Research Assistant",
       description:
-        "Master the art of building production-ready, full-stack Chrome Extensions using modern web technologies and best practices",
+        "An AI-powered research assistant that helps researchers find relevant papers, summarize findings, and generate citations quickly and accurately.",
       link: "https://fullstackextensions.com/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
+      skills: ["Python", "Next.js", "LangChain", "Hugging Face", "Google Cloud Platform"],
     },
-    {
-      name: "ExtensionKit",
-      description:
-        "Kit to jump-start your Chrome extension projects with a variety of battle-tested starter templates & examples",
-      link: "https://extensionkit.io/?ref=devportfolio",
-      skills: ["React", "Node.js", "AWS"],
-    },
+    
   ],
   experience: [
     {
@@ -60,10 +54,10 @@ export const siteConfig = {
     {
       school: "Iowa State University",
       degree: "Bachelor of Science in Computer Science",
-      dateRange: "Aug 2024 - May 2028 (Expected)",
+      dateRange: "Aug 2024 - May 2027 (Expected)",
       achievements: [
         "Dean's Award for International Student Excellence",
-        "Relevant Coursework: Data Structures & Algorithms, Computer Systems, Software Engineering, Database Systems",
+        "Relevant Coursework: Data Structures and Algorithms, Web Development, Databases, Operating System, Object-Oriented Programming (OOP), Artificial Intelligence, Cloud Computing, Computer Networks",
       ],
     },
   ],
