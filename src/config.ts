@@ -23,7 +23,7 @@ export const siteConfig = {
       name: "tAI - AI Research Assistant",
       description:
         "An AI-powered research assistant that helps researchers find relevant papers, summarize findings, and generate citations quickly and accurately.",
-      link: "https://fullstackextensions.com/?ref=devportfolio",
+      link: "https://github.com/tuan123123/tAI",
       skills: ["Python", "Next.js", "LangChain", "Hugging Face", "Google Cloud Platform"],
     },
     
