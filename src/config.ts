@@ -17,16 +17,29 @@ export const siteConfig = {
       description:
         "A real-time cryptocurrency trading platform that allows users to buy, sell, and monitor various cryptocurrencies with live market data and portfolio tracking.",
       link: "https://github.com/po-tech-community/crypto-pilot-fe",
-      skills: ["MongoDB", "React.js", "Node.js", "Express.js", "AWS", "Redis", "Binance API"],
+      skills: [
+        "MongoDB",
+        "React.js",
+        "Node.js",
+        "Express.js",
+        "AWS",
+        "Redis",
+        "Binance API",
+      ],
     },
     {
       name: "tAI - AI Research Assistant",
       description:
         "An AI-powered research assistant that helps researchers find relevant papers, summarize findings, and generate citations quickly and accurately.",
-      link: "https://github.com/tuan123123/tAI",
-      skills: ["Python", "Next.js", "LangChain", "Hugging Face", "Google Cloud Platform"],
+      link: "https://tai-frontend-165222711760.us-central1.run.app/",
+      skills: [
+        "Python",
+        "Next.js",
+        "LangChain",
+        "Hugging Face",
+        "Google Cloud Platform",
+      ],
     },
-    
   ],
   experience: [
     {
@@ -57,8 +70,7 @@ export const siteConfig = {
         "Reduced chatbot response latency by 34%, measured by average API response time, by developing backend services in Golang, optimizing query paths in MySQL, and adding request-level caching for conversation history.",
         "Wrote 40+ unit and integration tests across backend and frontend using Pytest, pytest-mock, and Selenium, increasing test coverage to 85% and reducing manual QA time by 20% in weekly deployments",
       ],
-
-    }
+    },
   ],
   education: [
     {
