@@ -16,7 +16,7 @@ export const siteConfig = {
       name: "Crypto Pilot - Trading",
       description:
         "A real-time cryptocurrency trading platform that allows users to buy, sell, and monitor various cryptocurrencies with live market data and portfolio tracking.",
-      link: "https://github.com/po-tech-community/crypto-pilot-fe",
+      link: "https://pocommunity.com/crypto-pilot/",
       skills: [
         "MongoDB",
         "React.js",
