@@ -13,10 +13,24 @@ export const siteConfig = {
   skills: ["Javascript", "React", "Node.js", "Python", "AWS", "Docker"],
   projects: [
     {
+      name: "TLearn - AI Tutor",
+      description:
+        "Built and launched an agentic AI tutor used by 100+ students, generating $500+ in revenue and improving average grades by 30% through LangChain tool orchestration, personalized recommendations, and multi-step question answering.",
+      link: "https://github.com/tuan123123/tlearn",
+      skills: [
+        "Python",
+        "LangChain",
+        "RAG",
+        "Hugging Face",
+        "Redis",
+        "Google Cloud Platform",
+      ],
+    },
+    {
       name: "Crypto Pilot - Trading",
       description:
         "A real-time cryptocurrency trading platform that allows users to buy, sell, and monitor various cryptocurrencies with live market data and portfolio tracking.",
-      link: "https://pocommunity.com/crypto-pilot/",
+      link: "https://github.com/po-tech-community/crypto-pilot-fe",
       skills: [
         "MongoDB",
         "React.js",
@@ -31,7 +45,7 @@ export const siteConfig = {
       name: "tAI - AI Research Assistant",
       description:
         "An AI-powered research assistant that helps researchers find relevant papers, summarize findings, and generate citations quickly and accurately.",
-      link: "https://tai-frontend-165222711760.us-central1.run.app/",
+      link: "https://github.com/tuan123123/tAI",
       skills: [
         "Python",
         "Next.js",
@@ -45,7 +59,7 @@ export const siteConfig = {
     {
       company: "Microsoft ",
       title: "AI and Machine Learning - Summer Program",
-      dateRange: "July 2025 – Sep 2025",
+      dateRange: "July 2026 – Present",
       bullets: [
         "Built an LLM health assistant utilizing Azure OpenAI Services and LangChain to interpret patient records, generate diagnostic insights, and assist predictive models in assessing cardiovascular risk",
         "Fine-tuned TabNet model for heart disease prediction using the UCI Heart Disease dataset, leveraging Python, pandas, and Hugging Face with feature selection and hyperparameter tuning to reach 90% accuracy",
@@ -54,7 +68,7 @@ export const siteConfig = {
     {
       company: "HSBC Holdings",
       title: "Software Engineer Intern (Bank Transaction Team)",
-      dateRange: "May 2025 – Aug 2025",
+      dateRange: "May 2026 – Aug 2026",
       bullets: [
         "Developed backend API in Java Spring Boot for processing Premium Membership transactions, integrating Kafka for message queuing and Redis Streams for real-time ingestion of 20K+ events/min, reducing system lag by 40%",
         "Integrated Prometheus and Grafana with AWS CloudWatch to monitor global transaction service performance and optimize AWS EC2 usage, improved alerting accuracy and helped reduce idle resource cost by $5,000 per month",
@@ -64,7 +78,7 @@ export const siteConfig = {
     {
       company: "CloudyScale.ai",
       title: "Software Engineer Intern (Web Development Team)",
-      dateRange: "May 2024 – Aug 2024",
+      dateRange: "May 2025 – Aug 2025",
       bullets: [
         "Delivered document search application used by 30 employees, by building UI components with Next.js, TypeScript, and TailwindCSS and integrating authenticated APIs using OAuth 2.0 and role-based access control",
         "Reduced chatbot response latency by 34%, measured by average API response time, by developing backend services in Golang, optimizing query paths in MySQL, and adding request-level caching for conversation history.",
