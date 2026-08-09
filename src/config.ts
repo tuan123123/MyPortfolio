@@ -90,7 +90,7 @@ export const siteConfig = {
     {
       school: "Iowa State University",
       degree: "Bachelor of Science in Computer Science",
-      dateRange: "Aug 2024 - May 2027 (Expected)",
+      dateRange: "Aug 2024 - May 2028  (Expected)",
       achievements: [
         "Dean's Award for International Student Excellence",
         "Relevant Coursework: Data Structures and Algorithms, Web Development, Databases, Operating System, Object-Oriented Programming (OOP), Artificial Intelligence, Cloud Computing, Computer Networks",
