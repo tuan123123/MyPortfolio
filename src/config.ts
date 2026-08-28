@@ -68,7 +68,7 @@ export const siteConfig = {
     },
     {
       company: "Microsoft ",
-      title: "AI and Machine Learning - Summer Program",
+      title: "AI and Machine Learning - Exploratory Program",
       dateRange: "Jan 2026 – March 2026",
       bullets: [
         "Built an LLM health assistant utilizing Azure OpenAI Services and LangChain to interpret patient records, generate diagnostic insights, and assist predictive models in assessing cardiovascular risk",
