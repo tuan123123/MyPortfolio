@@ -16,7 +16,7 @@ export const siteConfig = {
       name: "TLearn - AI Tutor",
       description:
         "Built and launched an agentic AI tutor used by 100+ students, generating $500+ in revenue and improving average grades by 30% through LangChain tool orchestration, personalized recommendations, and multi-step question answering.",
-      link: "https://github.com/tuan123123/tlearn",
+      link: "https://github.com/po-tech-community/crypto-pilot-be",
       skills: [
         "Python",
         "LangChain",
@@ -57,15 +57,6 @@ export const siteConfig = {
   ],
   experience: [
     {
-      company: "Microsoft ",
-      title: "AI and Machine Learning - Summer Program",
-      dateRange: "July 2026 – Present",
-      bullets: [
-        "Built an LLM health assistant utilizing Azure OpenAI Services and LangChain to interpret patient records, generate diagnostic insights, and assist predictive models in assessing cardiovascular risk",
-        "Fine-tuned TabNet model for heart disease prediction using the UCI Heart Disease dataset, leveraging Python, pandas, and Hugging Face with feature selection and hyperparameter tuning to reach 90% accuracy",
-      ],
-    },
-    {
       company: "HSBC Holdings",
       title: "Software Engineer Intern (Bank Transaction Team)",
       dateRange: "May 2026 – Aug 2026",
@@ -73,6 +64,15 @@ export const siteConfig = {
         "Developed backend API in Java Spring Boot for processing Premium Membership transactions, integrating Kafka for message queuing and Redis Streams for real-time ingestion of 20K+ events/min, reducing system lag by 40%",
         "Integrated Prometheus and Grafana with AWS CloudWatch to monitor global transaction service performance and optimize AWS EC2 usage, improved alerting accuracy and helped reduce idle resource cost by $5,000 per month",
         "Built automated CI/CD pipeline for Premium Transactions Service using GitHub Actions, Docker Compose, reducing deploy rollback risk by 50% with integrated security scan and unit test coverage of 95%",
+      ],
+    },
+    {
+      company: "Microsoft ",
+      title: "AI and Machine Learning - Summer Program",
+      dateRange: "Jan 2026 – March 2026",
+      bullets: [
+        "Built an LLM health assistant utilizing Azure OpenAI Services and LangChain to interpret patient records, generate diagnostic insights, and assist predictive models in assessing cardiovascular risk",
+        "Fine-tuned TabNet model for heart disease prediction using the UCI Heart Disease dataset, leveraging Python, pandas, and Hugging Face with feature selection and hyperparameter tuning to reach 90% accuracy",
       ],
     },
     {
@@ -90,7 +90,7 @@ export const siteConfig = {
     {
       school: "Iowa State University",
       degree: "Bachelor of Science in Computer Science",
-      dateRange: "Aug 2024 - May 2028  (Expected)",
+      dateRange: "Aug 2024 - May 2028 (Expected)",
       achievements: [
         "Dean's Award for International Student Excellence",
         "Relevant Coursework: Data Structures and Algorithms, Web Development, Databases, Operating System, Object-Oriented Programming (OOP), Artificial Intelligence, Cloud Computing, Computer Networks",
