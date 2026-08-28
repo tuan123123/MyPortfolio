@@ -16,7 +16,7 @@ export const siteConfig = {
       name: "TLearn - AI Tutor",
       description:
         "Built and launched an agentic AI tutor used by 100+ students, generating $500+ in revenue and improving average grades by 30% through LangChain tool orchestration, personalized recommendations, and multi-step question answering.",
-      link: "https://github.com/po-tech-community/crypto-pilot-be",
+      link: "https://tlearn-web-bj5mphzx7q-uc.a.run.app/",
       skills: [
         "Python",
         "LangChain",
