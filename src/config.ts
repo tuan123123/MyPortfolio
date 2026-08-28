@@ -1,6 +1,6 @@
 export const siteConfig = {
   name: "Tuan Nguyen",
-  title: "Sophomore CS Student | Aspiring Software Engineer",
+  title: "Junior CS Student | Aspiring Software Engineer",
   description: "Portfolio website of Tuan Nguyen",
   accentColor: "#8ae28aff",
   social: {
